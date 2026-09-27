@@ -73,7 +73,7 @@ Full-stack educational assessment platform with LLM-driven document ingestion, r
 </td>
 <td width="50%">
 
-**[ResultIntel — Govt Jobs Portal](https://resultintel.in)** 🟢 Live
+**[ResultIntel — Govt Jobs Portal](https://resultintel.com)** 🟢 Live
 
 India's government job aggregation platform with AI-powered PDF extraction, SEO-optimized pages.
 
