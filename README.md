@@ -73,9 +73,9 @@ Full-stack educational assessment platform with LLM-driven document ingestion, r
 </td>
 <td width="50%">
 
-**[RojgarHub — Govt Jobs Portal](https://rojgarhub.in)** 🟢 Live
+**[ResultIntel — Govt Jobs Portal](https://resultintel.in)** 🟢 Live
 
-India's government job aggregation platform with AI-powered PDF extraction, SEO-optimized pages, and 50K+ monthly visitors.
+India's government job aggregation platform with AI-powered PDF extraction, SEO-optimized pages.
 
 `Next.js` `Django` `Cloud Run` `PostgreSQL` `Gemini` `SEO`
 
