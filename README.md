@@ -14,16 +14,16 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 **B.Tech CSE (AI/ML)**, GL Bajaj Institute of Technology & Management — graduated 2025
-- 🎓 Pursuing **B.S. Data Science and Applications**, **IIT Madras** (expected Dec 2026)
-- 💼 **Software Developer Intern** at [Capri Global Capital Limited](https://www.capriglobal.in/) (Feb – Aug 2026) — shipped features on a production Loan Management System and migrated pipelines from ETL to ELT on Amazon Redshift
-- 🔧 I build production data pipelines, REST APIs, and LLM-powered workflows end to end
-- 🌱 Currently deep-diving into **LLM agent orchestration (LangGraph)** and **applied ML forecasting**
-- 📬 **Open to full-time SDE / ML roles**
+-  **B.Tech CSE (AI/ML)**, GL Bajaj Institute of Technology & Management — graduated 2025
+-  Pursuing **B.S. Data Science and Applications**, **IIT Madras** (expected Dec 2026)
+-  **Software Developer Intern** at [Capri Global Capital Limited](https://www.capriglobal.in/) (Feb – Aug 2026) — shipped features on a production Loan Management System and migrated pipelines from ETL to ELT on Amazon Redshift
+-  I build production data pipelines, REST APIs, and LLM-powered workflows end to end
+-  Currently deep-diving into **LLM agent orchestration (LangGraph)** and **applied ML forecasting**
+-  **Open to full-time SDE / ML roles**
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -71,7 +71,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 **🟢 Live Products**
 
@@ -98,7 +98,7 @@ India's government-jobs aggregation platform. A LangGraph + Vertex AI extraction
 </tr>
 </table>
 
-**🧪 ML & Data Projects**
+** ML & Data Projects**
 
 <table>
 <tr>
@@ -134,13 +134,13 @@ Virtual teaching assistant leveraging RAG to answer course-related queries with 
 
 ---
 
-### 🎓 Certifications — IIT Madras
+###  Certifications — IIT Madras
 
 `Diploma in Data Science` · `Diploma in Programming` · `Advanced Certificate in Machine Learning and Data Science` · `Advanced Certificate in Programming`
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 
@@ -159,7 +159,7 @@ Virtual teaching assistant leveraging RAG to answer course-related queries with 
 
 <div align="center">
 
-💼 **Open to full-time SDE / ML roles** · 📍 Noida, India
+ **Open to full-time SDE / ML roles** ·  Noida, India
 
 *If you like what you see, let's connect!*
 
